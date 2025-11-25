@@ -9,7 +9,8 @@ class Question {
   bool questionAnswer;
 
   // The constructor takes 'q' and 'a'
-  Question({required String q, required bool a})
-    : questionText = q,
-      questionAnswer = a;
+  // Question({required String q, required bool a})
+  //   : questionText = q,
+  //     questionAnswer = a;
+  Question(this.questionText, this.questionAnswer);
 }
