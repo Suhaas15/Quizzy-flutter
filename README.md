@@ -17,7 +17,7 @@ Here is a sneak peek of the app in action:
 
 |                            Android                            |                          iOS                          |
 |:-------------------------------------------------------------:|:-----------------------------------------------------:|
-| <img src="screenshots/android.png" width="250" alt="Android"> | <img src="screenshots/ios.png" width="250" alt="IOS"> |
+| <img src="screenshots/Android.png" width="250" alt="Android"> | <img src="screenshots/IOS.png" width="250" alt="IOS"> |
 
 ## 🛠️ Built With
 
