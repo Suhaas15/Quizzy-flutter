@@ -8,7 +8,7 @@ Dive into a pool of interesting facts—from slug blood colors to Portuguese oce
 
 *   **True/False Mechanics:** Simple mechanics for quick play.
 *   **Live Score Tracking:** Watch your progress with visual indicators for correct (✅) and incorrect (❌) answers.
-*   **End-of-Quiz Alert:** A popup notification lets you know when you've conquered all the questions.
+*   **End-of-Quiz Alert:** A pop-up notification lets you know when you've conquered all the questions.
 *   **Dark Mode UI:** Easy on the eyes with a sleek dark theme.
 
 ## 📱 Screenshots
@@ -18,8 +18,6 @@ Here is a sneak peek of the app in action:
 |                            Android                            |                          iOS                          |
 |:-------------------------------------------------------------:|:-----------------------------------------------------:|
 | <img src="screenshots/android.png" width="250" alt="Android"> | <img src="screenshots/ios.png" width="250" alt="IOS"> |
-
-> **Note:** To display the screenshots, replace the `src` paths above with the actual paths to your image files (e.g., `screenshots/android.png`).
 
 ## 🛠️ Built With
 
